@@ -658,6 +658,7 @@ ol {
   margin-right: 8px;
   border: 1.25px solid #2e2f42;
   border-radius: 2px;
+  cursor: pointer;
   fill: transparent;
   transition: background-color var(--animation-duration), var(--animation-timing-function),
     var(--animation-duration), fill var(--animation-timing-function);
